@@ -1,2 +1,2 @@
 # ML-works
-Here are my ML mini projects done while learning it
+Here are my ML mini projects(lab assignments) done while learning it in my course
